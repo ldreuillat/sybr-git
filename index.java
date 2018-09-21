@@ -1,1 +1,2 @@
 INIT
+FEATURE 1s
